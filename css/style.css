@@ -1,7 +1,35 @@
 .NAV {
     height: auto;
+    padding-bottom: 0px;
 }
 
+.logo {
+
+    height: 80px;
+    margin-top: -15px;
+    margin-left: -10px;
+    margin-bottom: 0px;
+
+}
+
+
 .NAV-DROP {
-    margin-left: 1100px;
+    margin-left: 1000px;
+}
+
+.DROP {
+    display: block;
+    margin-left: -250px;
+    width: 400px;
+    height: 100vh;
+}
+
+.CAROUSEL {
+    height: auto;
+}
+
+.FOOTER {
+    height: 20vh;
+    background-color: black;
+    color: #ffffff;
 }
